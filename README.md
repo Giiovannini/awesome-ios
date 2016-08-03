@@ -228,6 +228,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers :large_orange_diamond:
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps. :large_orange_diamond:
 * [InstagramAuthViewController](https://github.com/Isuru-Nanayakkara/InstagramAuthViewController) - A ViewController for Instagram authentication. :large_orange_diamond:
+* [Material](Materia
 
 ### Analytics
 * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
@@ -1144,6 +1145,7 @@ Most of these are paid services, some have free tiers.
 * [LFLoginController](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift :large_orange_diamond:
 * [nui](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
 * [RedBeard](http://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
+* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that allows developers to easily create beautiful applications.
 
 ##### Activity Indicator
 
